@@ -29,6 +29,8 @@ public class GetStream {
         Set<Map.Entry<String, String>> entries = map.entrySet();
         Stream<Map.Entry<String, String>> stream5 = entries.stream();
 
+        System.out.println(entries);
+
         //把数组转化为stream流
         Stream<Integer> stream6 = Stream.of(1, 2, 3, 4, 5);
         Integer[] arr={1,2,3,4,5};
