@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 
 public class GetStream {
     public static void main(String[] args) {
-        //集合转换为Stream流
+        //集合转为Stream流
 
         List<String> list=new ArrayList<>();
 
