@@ -14,7 +14,7 @@ public class Stream01 {
         list.add("张强");
         list.add("张三丰");
 
-        //过滤数据
+        //过滤数据,xuan
         list.stream()
                 .filter(name->name.startsWith("张"))
                 .filter(name->name.length()==3)
