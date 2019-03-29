@@ -1,4 +1,4 @@
-package Demo02_MethodReference;
+package src.Demo02_MethodReference;
 
 
 @FunctionalInterface

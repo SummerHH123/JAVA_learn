@@ -1,4 +1,4 @@
-package Demo03_ObjectMethodReference;
+package src.Demo03_ObjectMethodReference;
 
 
 @FunctionalInterface

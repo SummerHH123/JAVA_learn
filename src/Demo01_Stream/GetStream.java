@@ -1,4 +1,4 @@
-package Demo01_Stream;
+package src.Demo01_Stream;
 
 import java.util.*;
 import java.util.stream.Stream;

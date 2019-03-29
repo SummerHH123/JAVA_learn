@@ -1,4 +1,4 @@
-package Demo03_ObjectMethodReference;
+package src.Demo03_ObjectMethodReference;
 
 public class Test {
 
@@ -14,7 +14,7 @@ public class Test {
             obj.printUpperCaseString(s);
         });
 
-        //对象存在 成员方法存在
+        //对象名存在 成员方法存在
 
         MethodRerObject obj=new MethodRerObject();
 
